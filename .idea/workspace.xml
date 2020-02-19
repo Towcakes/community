@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35564ee1-749d-408b-81a7-f159d38bf094" name="Default Changelist" comment="">
+    <list default="true" id="35564ee1-749d-408b-81a7-f159d38bf094" name="Default Changelist" comment="diyici">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erbing/community/community/controller/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +63,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/index" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -82,6 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1581654240042</updated>
       <workItem from="1581654246128" duration="15703000" />
+      <workItem from="1582097411126" duration="2668000" />
+      <workItem from="1582100254978" duration="117000" />
+      <workItem from="1582100469028" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="diyici">
       <created>1582096579392</created>
@@ -105,49 +135,49 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="640" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1582094206114" />
-    <state x="369" y="84" key="CommitChangelistDialog2" timestamp="1582096579047">
+    <state x="369" y="84" key="CommitChangelistDialog2" timestamp="1582100343413">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="369" y="84" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582096579047" />
-    <state width="1358" height="140" key="GridCell.Tab.0.bottom" timestamp="1582097406943">
+    <state x="369" y="84" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1582100343413" />
+    <state width="1358" height="295" key="GridCell.Tab.0.bottom" timestamp="1582106049824">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582097406943" />
-    <state width="1358" height="140" key="GridCell.Tab.0.center" timestamp="1582097406942">
+    <state width="1358" height="295" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582106049824" />
+    <state width="1358" height="295" key="GridCell.Tab.0.center" timestamp="1582106049823">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582097406942" />
-    <state width="1358" height="140" key="GridCell.Tab.0.left" timestamp="1582097406941">
+    <state width="1358" height="295" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1582106049823" />
+    <state width="1358" height="295" key="GridCell.Tab.0.left" timestamp="1582106049822">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582097406941" />
-    <state width="1358" height="140" key="GridCell.Tab.0.right" timestamp="1582097406942">
+    <state width="1358" height="295" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1582106049822" />
+    <state width="1358" height="295" key="GridCell.Tab.0.right" timestamp="1582106049823">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582097406942" />
-    <state width="1358" height="140" key="GridCell.Tab.1.bottom" timestamp="1582097406945">
+    <state width="1358" height="295" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1582106049823" />
+    <state width="1358" height="295" key="GridCell.Tab.1.bottom" timestamp="1582106049826">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582097406945" />
-    <state width="1358" height="140" key="GridCell.Tab.1.center" timestamp="1582097406944">
+    <state width="1358" height="295" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1582106049826" />
+    <state width="1358" height="295" key="GridCell.Tab.1.center" timestamp="1582106049825">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1582097406944" />
-    <state width="1358" height="140" key="GridCell.Tab.1.left" timestamp="1582097406943">
+    <state width="1358" height="295" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1582106049825" />
+    <state width="1358" height="295" key="GridCell.Tab.1.left" timestamp="1582106049824">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1582097406943" />
-    <state width="1358" height="140" key="GridCell.Tab.1.right" timestamp="1582097406944">
+    <state width="1358" height="295" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1582106049824" />
+    <state width="1358" height="295" key="GridCell.Tab.1.right" timestamp="1582106049825">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="140" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1582097406944" />
+    <state width="1358" height="295" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1582106049825" />
     <state x="431" y="132" key="SettingsEditor" timestamp="1582096970788">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="132" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1582096970788" />
-    <state x="947" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1582094341320">
+    <state x="947" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1582098967828">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="947" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1582094341320" />
+    <state x="947" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1582098967828" />
   </component>
 </project>
